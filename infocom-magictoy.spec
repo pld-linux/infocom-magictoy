@@ -17,6 +17,9 @@ BuildArch:	noarch
 %description
 A demonstration of some of Inform's features, in a small game.
 
+%description -l pl
+Gierka demonstruj±ca niektóre mo¿liwo¶ci Informu.
+
 %prep
 
 %install
