@@ -1,16 +1,15 @@
 %define		_name		magic-toyshop
-
 Summary:	Infocom text game - Magic Toyshop
 Summary(pl):	Tekstówka Infocomu - Magic Toyshop
 Name:		infocom-magictoy
 Version:	951018
-Release:	1
+Release:	2
 License:	free
 Group:		Applications/Games
 Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z5
 # Source0-md5:	5a260a074eb720e5a47052b4b5047dfa
 URL:		http://www.ifarchive.org/
-Requires:	frotz
+Requires:	zcode-wrapper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
