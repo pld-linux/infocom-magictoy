@@ -1,6 +1,6 @@
 %define		_name		magic-toyshop
 Summary:	Infocom text game - Magic Toyshop
-Summary(pl):	TekstÛwka Infocomu - Magic Toyshop
+Summary(pl.UTF-8):   Tekst√≥wka Infocomu - Magic Toyshop
 Name:		infocom-magictoy
 Version:	951018
 Release:	2
@@ -16,8 +16,8 @@ BuildArch:	noarch
 %description
 A demonstration of some of Inform's features, in a small game.
 
-%description -l pl
-Gierka demonstruj±ca niektÛre moøliwo∂ci Informu.
+%description -l pl.UTF-8
+Gierka demonstrujƒÖca niekt√≥re mo≈ºliwo≈õci Informu.
 
 %prep
 
