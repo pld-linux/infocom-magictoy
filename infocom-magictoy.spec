@@ -1,6 +1,6 @@
 %define		_name		magic-toyshop
 Summary:	Infocom text game - Magic Toyshop
-Summary(pl.UTF-8):   Tekstówka Infocomu - Magic Toyshop
+Summary(pl.UTF-8):	Tekstówka Infocomu - Magic Toyshop
 Name:		infocom-magictoy
 Version:	951018
 Release:	2
